@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/it-inkubator-homewrok-first/static/css/main.073c9b0a.css",
+    "main.js": "/it-inkubator-homewrok-first/static/js/main.ac0911a8.js",
+    "static/js/787.177e23c2.chunk.js": "/it-inkubator-homewrok-first/static/js/787.177e23c2.chunk.js",
+    "index.html": "/it-inkubator-homewrok-first/index.html",
+    "main.073c9b0a.css.map": "/it-inkubator-homewrok-first/static/css/main.073c9b0a.css.map",
+    "main.ac0911a8.js.map": "/it-inkubator-homewrok-first/static/js/main.ac0911a8.js.map",
+    "787.177e23c2.chunk.js.map": "/it-inkubator-homewrok-first/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac0911a8.js"
+  ]
+}
